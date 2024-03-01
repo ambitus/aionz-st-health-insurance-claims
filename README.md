@@ -5,7 +5,7 @@ Within this solution template, there are various phases of the AI lifecycle incl
 # ![alt text](./imgs/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg)
 
 ## Getting Started
-View or download the [official AI Solution Template PDF](https://github.com/ambitus/aionz-health-insurance-claims/blob/main/ai_solution_template_health_insurance_claims.pdf) to get started
+View or download the [official AI Solution Template PDF](https://github.com/ambitus/aionz-st-health-insurance-claims/blob/main/ai_solution_template_health_insurance_claims.pdf) to get started
 
 ## Authors & Contributors
 - Evan Rivera: (Evan.Rivera@ibm.com)
