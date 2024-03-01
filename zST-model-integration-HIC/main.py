@@ -116,7 +116,7 @@ def get_predictiion(result):
     }
     response = requests.request("POST", url, headers=headers, data=payload, verify=False)
     x = response.json()
-    if type(x)!= list and(x["code"] == "WML_OS_0015" or x["code"] == "WML_OS_0016"):
+    if type(x)!= list and(x["code"] == "WML_OS_0015" or x["code"] == "WML_OS_0016" or x["code"] == "ALNB102E"):
         token=get_authentication()
         headers = {
         "Authorization": "Bearer %s" % token,
