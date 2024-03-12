@@ -8,6 +8,10 @@ Within this solution template, there are various phases of the AI lifecycle incl
 View or download the [official AI Solution Template PDF](https://github.com/ambitus/aionz-st-health-insurance-claims/blob/main/ai_solution_template_health_insurance_claims.pdf) to get started
 
 ## Authors & Contributors
-- Evan Rivera: (Evan.Rivera@ibm.com)
-- Jawaharlal Rajan: (jawahar@ibm.com)
-- Alexis Landis (alexis.mae.landis@ibm.com)
+- Owner:
+    - Evan Rivera (Evan.Rivera@ibm.com)
+- Development:
+    - Evan Rivera (Evan.Rivera@ibm.com)
+    - Jawaharlal Rajan (jawahar@ibm.com)
+- Design:
+    - Alexis Landis (alexis.mae.landis@ibm.com)
